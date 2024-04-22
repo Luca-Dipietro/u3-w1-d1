@@ -70,7 +70,6 @@
 
 .img-container {
   display: flex;
-  width: 100%;
   gap: 2em;
   justify-content: center;
 }
